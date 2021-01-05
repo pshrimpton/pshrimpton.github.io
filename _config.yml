@@ -30,7 +30,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -53,16 +53,16 @@ email: phil@shrimpton.co.uk
 
 authors:
   pshrimpton:
-    name: John Doe
+    name: Phil Shrimpton
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: pshrimpton
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
@@ -73,7 +73,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true

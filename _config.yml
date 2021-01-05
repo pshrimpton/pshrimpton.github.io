@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://www.shrimpton.co.uk
+url: http://www.shrimpton.co.uk
 
 permalink: /:title/
 

@@ -1,0 +1,10 @@
+---
+title: "Music"
+layout: post
+star: true
+tag: music
+category: blog
+description: All my favorite music and artists 
+---
+
+Music is my like, I have always loved music, and there is always music playing when I am around.

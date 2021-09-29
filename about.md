@@ -57,6 +57,7 @@ layout: page
 	<li>Test Automation - Contract Testing, xUnit, WireMock, MockObjects, Selenium, ArchUnit, SonarQube, SpotBugs, Checkstyle, PMD</li>
 	<li>Leadership / Coaching</li>
 	<li>Enterprise Software Development</li>
+	<li>Software Architecture - arc42, C4, Structurizr</li>
 	<li>Jetbrains Intellij</li>
 	<li>Java - Spring, JEE (EJB, JMX, JMS, JDBC, JSP, JCA) </li>
 	<li>JavaScript - ExtJS, JQuery, Node.js</li>

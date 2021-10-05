@@ -14,7 +14,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: test-page
+resume-url: resume
 
 url: https://www.shrimpton.co.uk
 
